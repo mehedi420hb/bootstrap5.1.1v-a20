@@ -1,0 +1,48 @@
+img{
+    max-width: 100%;
+}
+.navbar-brand{}
+.navbar-brand img{
+    height: 50px;
+    width: auto;
+}
+header{
+    background-color: #dcebf5;
+}
+.navbar{
+   background-color: #dcebf5; 
+}
+.breadcrumb{
+    background-color: #e9ecef;
+}
+.carousel-item{}
+
+.carousel-item img{
+    height: 400px;
+}
+#slider{
+    padding: 220px 0;
+}
+.alert{
+background-color: #d4edda;
+}
+.alert h2{
+    color: #346f41;
+}
+.alert p{
+    color: #346f41;
+}
+.footer{}
+.footer ul{
+    list-style: none;
+}
+.footer ul li{
+    display: inline-block;
+}
+.footer ul li a {
+    text-decoration: none;
+    color: #ddd;
+    padding: 0px 16px;
+    display: block;
+    font-size: 39px;
+}
